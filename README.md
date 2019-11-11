@@ -8,4 +8,6 @@ $git clone https://github.com/MuhammadZalim97/Decompile
 
 $cd Decompile
 
+$chmod +x comarsh.py
+
 $python2 comarsh.py
